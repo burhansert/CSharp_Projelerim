@@ -1,0 +1,10 @@
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Sunucu\Sunucu\bin\Debug\Sunucu.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Sunucu\Sunucu\bin\Debug\Sunucu.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Sunucu\Sunucu\obj\Debug\Sunucu.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Sunucu\Sunucu\obj\Debug\Sunucu.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Sunucu\Sunucu\obj\Debug\Sunucu.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci ve Sunucu - Gelişmiş\Sunucu - Gelişmiş\Sunucu\obj\Debug\Sunucu.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci ve Sunucu - Gelişmiş\Sunucu - Gelişmiş\Sunucu\obj\Debug\Sunucu.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci ve Sunucu - Gelişmiş\Sunucu - Gelişmiş\Sunucu\bin\Debug\Sunucu.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci ve Sunucu - Gelişmiş\Sunucu - Gelişmiş\Sunucu\bin\Debug\Sunucu.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci ve Sunucu - Gelişmiş\Sunucu - Gelişmiş\Sunucu\obj\Debug\Sunucu.csprojResolveAssemblyReference.cache

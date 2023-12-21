@@ -1,0 +1,15 @@
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\Client\Client\bin\Debug\Client.exe.config
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\Client\Client\bin\Debug\Client.exe
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\Client\Client\bin\Debug\Client.pdb
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\Client\Client\obj\Debug\Client.exe
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\Client\Client\obj\Debug\Client.pdb
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\2\Client\Client\bin\Debug\Client.exe.config
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\2\Client\Client\obj\Debug\Client.exe
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\2\Client\Client\obj\Debug\Client.pdb
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\2\Client\Client\bin\Debug\Client.exe
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\2\Client\Client\bin\Debug\Client.pdb
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\2 console\Client\Client\bin\Debug\Client.exe.config
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\2 console\Client\Client\obj\Debug\Client.exe
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\2 console\Client\Client\obj\Debug\Client.pdb
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\2 console\Client\Client\bin\Debug\Client.exe
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\2 console\Client\Client\bin\Debug\Client.pdb

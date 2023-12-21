@@ -1,0 +1,12 @@
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\Server\Server\bin\Debug\Server.exe.config
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\Server\Server\bin\Debug\Server.exe
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\Server\Server\bin\Debug\Server.pdb
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\Server\Server\obj\Debug\Server.exe
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\Server\Server\obj\Debug\Server.pdb
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\1 çok basit\Server\Server\bin\Debug\Server.exe.config
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\1 çok basit\Server\Server\obj\Debug\Server.exe
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\1 çok basit\Server\Server\obj\Debug\Server.pdb
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\1 çok basit pipe\Server\Server\bin\Debug\Server.exe.config
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\1 çok basit pipe\Server\Server\obj\Debug\Server.exe
+D:\Masaüstü\Pipe\4 c# c# çift yönlü\1 çok basit pipe\Server\Server\obj\Debug\Server.pdb

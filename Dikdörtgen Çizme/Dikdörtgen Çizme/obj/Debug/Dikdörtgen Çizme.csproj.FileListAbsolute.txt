@@ -1,0 +1,9 @@
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Dikdörtgen Çizme\Dikdörtgen Çizme\bin\Debug\Dikdörtgen Çizme.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Dikdörtgen Çizme\Dikdörtgen Çizme\obj\Debug\Dikdörtgen Çizme.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Dikdörtgen Çizme\Dikdörtgen Çizme\obj\Debug\Dikdörtgen_Çizme.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Dikdörtgen Çizme\Dikdörtgen Çizme\obj\Debug\Dikdörtgen_Çizme.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Dikdörtgen Çizme\Dikdörtgen Çizme\obj\Debug\Dikdörtgen Çizme.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Dikdörtgen Çizme\Dikdörtgen Çizme\bin\Debug\Dikdörtgen Çizme.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Dikdörtgen Çizme\Dikdörtgen Çizme\bin\Debug\Dikdörtgen Çizme.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Dikdörtgen Çizme\Dikdörtgen Çizme\obj\Debug\Dikdörtgen Çizme.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Dikdörtgen Çizme\Dikdörtgen Çizme\obj\Debug\Dikdörtgen Çizme.pdb

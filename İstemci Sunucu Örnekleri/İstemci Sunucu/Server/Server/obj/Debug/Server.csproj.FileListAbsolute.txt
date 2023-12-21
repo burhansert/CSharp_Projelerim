@@ -1,0 +1,24 @@
+D:\Masaüstü\Server\Server\bin\Debug\Server.exe.config
+D:\Masaüstü\Server\Server\bin\Debug\Server.exe
+D:\Masaüstü\Server\Server\bin\Debug\Server.pdb
+D:\Masaüstü\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Masaüstü\Server\Server\obj\Debug\Server.exe
+D:\Masaüstü\Server\Server\obj\Debug\Server.pdb
+D:\Masaüstü\Depo\c# server client\Server\Server\bin\Debug\Server.exe.config
+D:\Masaüstü\Depo\c# server client\Server\Server\obj\Debug\Server.exe
+D:\Masaüstü\Depo\c# server client\Server\Server\obj\Debug\Server.pdb
+D:\Masaüstü\Depo\c# server client\Server\Server\bin\Debug\Server.exe
+D:\Masaüstü\Depo\c# server client\Server\Server\bin\Debug\Server.pdb
+D:\Masaüstü\Depo\c# server client\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu\Server\Server\bin\Debug\Server.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu\Server\Server\obj\Debug\Server.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu\Server\Server\obj\Debug\Server.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu\Server\Server\bin\Debug\Server.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu\Server\Server\bin\Debug\Server.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu Örnekleri\İstemci Sunucu\Server\Server\bin\Debug\Server.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu Örnekleri\İstemci Sunucu\Server\Server\obj\Debug\Server.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu Örnekleri\İstemci Sunucu\Server\Server\obj\Debug\Server.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu Örnekleri\İstemci Sunucu\Server\Server\bin\Debug\Server.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu Örnekleri\İstemci Sunucu\Server\Server\bin\Debug\Server.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu Örnekleri\İstemci Sunucu\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

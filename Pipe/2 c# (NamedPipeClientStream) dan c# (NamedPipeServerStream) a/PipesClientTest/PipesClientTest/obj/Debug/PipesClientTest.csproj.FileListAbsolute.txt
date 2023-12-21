@@ -1,0 +1,18 @@
+D:\Masaüstü\Pipe\2\PipesClientTest\PipesClientTest\bin\Debug\PipesClientTest.exe.config
+D:\Masaüstü\Pipe\2\PipesClientTest\PipesClientTest\bin\Debug\PipesClientTest.exe
+D:\Masaüstü\Pipe\2\PipesClientTest\PipesClientTest\bin\Debug\PipesClientTest.pdb
+D:\Masaüstü\Pipe\2\PipesClientTest\PipesClientTest\obj\Debug\PipesClientTest.csprojResolveAssemblyReference.cache
+D:\Masaüstü\Pipe\2\PipesClientTest\PipesClientTest\obj\Debug\PipesClientTest.Form1.resources
+D:\Masaüstü\Pipe\2\PipesClientTest\PipesClientTest\obj\Debug\PipesClientTest.Properties.Resources.resources
+D:\Masaüstü\Pipe\2\PipesClientTest\PipesClientTest\obj\Debug\PipesClientTest.csproj.GenerateResource.Cache
+D:\Masaüstü\Pipe\2\PipesClientTest\PipesClientTest\obj\Debug\PipesClientTest.exe
+D:\Masaüstü\Pipe\2\PipesClientTest\PipesClientTest\obj\Debug\PipesClientTest.pdb
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream) dan c# (NamedPipeServerStream) a\PipesClientTest\PipesClientTest\bin\Debug\PipesClientTest.exe.config
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream) dan c# (NamedPipeServerStream) a\PipesClientTest\PipesClientTest\bin\Debug\PipesClientTest.exe
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream) dan c# (NamedPipeServerStream) a\PipesClientTest\PipesClientTest\bin\Debug\PipesClientTest.pdb
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream) dan c# (NamedPipeServerStream) a\PipesClientTest\PipesClientTest\obj\Debug\PipesClientTest.csprojResolveAssemblyReference.cache
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream) dan c# (NamedPipeServerStream) a\PipesClientTest\PipesClientTest\obj\Debug\PipesClientTest.Form1.resources
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream) dan c# (NamedPipeServerStream) a\PipesClientTest\PipesClientTest\obj\Debug\PipesClientTest.Properties.Resources.resources
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream) dan c# (NamedPipeServerStream) a\PipesClientTest\PipesClientTest\obj\Debug\PipesClientTest.csproj.GenerateResource.Cache
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream) dan c# (NamedPipeServerStream) a\PipesClientTest\PipesClientTest\obj\Debug\PipesClientTest.exe
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream) dan c# (NamedPipeServerStream) a\PipesClientTest\PipesClientTest\obj\Debug\PipesClientTest.pdb

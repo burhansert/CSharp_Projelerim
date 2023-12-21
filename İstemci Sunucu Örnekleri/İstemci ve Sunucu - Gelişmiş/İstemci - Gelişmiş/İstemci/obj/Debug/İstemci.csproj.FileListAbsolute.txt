@@ -1,0 +1,6 @@
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci\İstemci\bin\Debug\İstemci.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci\İstemci\bin\Debug\İstemci.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci\İstemci\obj\Debug\İstemci.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci\İstemci\obj\Debug\İstemci.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci ve Sunucu - Gelişmiş\İstemci - Gelişmiş\İstemci\obj\Debug\İstemci.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci ve Sunucu - Gelişmiş\İstemci - Gelişmiş\İstemci\obj\Debug\İstemci.pdb

@@ -1,0 +1,9 @@
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Baska-Programa-Tus-Gonderme\Baska-Programa-Tus-Gonderme\bin\Debug\Baska-Programa-Tus-Gonderme.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Baska-Programa-Tus-Gonderme\Baska-Programa-Tus-Gonderme\obj\Debug\Baska-Programa-Tus-Gonderme.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Baska-Programa-Tus-Gonderme\Baska-Programa-Tus-Gonderme\obj\Debug\Baska_Programa_Tus_Gonderme.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Baska-Programa-Tus-Gonderme\Baska-Programa-Tus-Gonderme\obj\Debug\Baska_Programa_Tus_Gonderme.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Baska-Programa-Tus-Gonderme\Baska-Programa-Tus-Gonderme\obj\Debug\Baska-Programa-Tus-Gonderme.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Baska-Programa-Tus-Gonderme\Baska-Programa-Tus-Gonderme\bin\Debug\Baska-Programa-Tus-Gonderme.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Baska-Programa-Tus-Gonderme\Baska-Programa-Tus-Gonderme\bin\Debug\Baska-Programa-Tus-Gonderme.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Baska-Programa-Tus-Gonderme\Baska-Programa-Tus-Gonderme\obj\Debug\Baska-Programa-Tus-Gonderme.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Baska-Programa-Tus-Gonderme\Baska-Programa-Tus-Gonderme\obj\Debug\Baska-Programa-Tus-Gonderme.pdb

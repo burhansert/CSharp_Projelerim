@@ -1,0 +1,18 @@
+D:\Belgelerim\Programlama\C#\stringBilgileri\stringBilgileri\bin\Debug\stringBilgileri.exe.config
+D:\Belgelerim\Programlama\C#\stringBilgileri\stringBilgileri\bin\Debug\stringBilgileri.exe
+D:\Belgelerim\Programlama\C#\stringBilgileri\stringBilgileri\bin\Debug\stringBilgileri.pdb
+D:\Belgelerim\Programlama\C#\stringBilgileri\stringBilgileri\obj\Debug\stringBilgileri.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\C#\stringBilgileri\stringBilgileri\obj\Debug\stringBilgileri.Form1.resources
+D:\Belgelerim\Programlama\C#\stringBilgileri\stringBilgileri\obj\Debug\stringBilgileri.Properties.Resources.resources
+D:\Belgelerim\Programlama\C#\stringBilgileri\stringBilgileri\obj\Debug\stringBilgileri.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\C#\stringBilgileri\stringBilgileri\obj\Debug\stringBilgileri.exe
+D:\Belgelerim\Programlama\C#\stringBilgileri\stringBilgileri\obj\Debug\stringBilgileri.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\stringBilgileri\stringBilgileri\bin\Debug\stringBilgileri.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\stringBilgileri\stringBilgileri\obj\Debug\stringBilgileri.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\stringBilgileri\stringBilgileri\obj\Debug\stringBilgileri.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\stringBilgileri\stringBilgileri\bin\Debug\stringBilgileri.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\stringBilgileri\stringBilgileri\bin\Debug\stringBilgileri.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\stringBilgileri\stringBilgileri\obj\Debug\stringBilgileri.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\stringBilgileri\stringBilgileri\obj\Debug\stringBilgileri.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\stringBilgileri\stringBilgileri\obj\Debug\stringBilgileri.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\stringBilgileri\stringBilgileri\obj\Debug\stringBilgileri.csproj.GenerateResource.Cache

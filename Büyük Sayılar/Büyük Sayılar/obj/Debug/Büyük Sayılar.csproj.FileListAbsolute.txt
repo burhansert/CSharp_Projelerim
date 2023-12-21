@@ -1,0 +1,17 @@
+D:\Masaüstü\Depo\test\Büyük Sayılar\Büyük Sayılar\bin\Debug\Büyük Sayılar.exe.config
+D:\Masaüstü\Depo\test\Büyük Sayılar\Büyük Sayılar\bin\Debug\Büyük Sayılar.exe
+D:\Masaüstü\Depo\test\Büyük Sayılar\Büyük Sayılar\bin\Debug\Büyük Sayılar.pdb
+D:\Masaüstü\Depo\test\Büyük Sayılar\Büyük Sayılar\obj\Debug\Büyük_Sayılar.Form1.resources
+D:\Masaüstü\Depo\test\Büyük Sayılar\Büyük Sayılar\obj\Debug\Büyük_Sayılar.Properties.Resources.resources
+D:\Masaüstü\Depo\test\Büyük Sayılar\Büyük Sayılar\obj\Debug\Büyük Sayılar.csproj.GenerateResource.Cache
+D:\Masaüstü\Depo\test\Büyük Sayılar\Büyük Sayılar\obj\Debug\Büyük Sayılar.exe
+D:\Masaüstü\Depo\test\Büyük Sayılar\Büyük Sayılar\obj\Debug\Büyük Sayılar.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Büyük Sayılar\Büyük Sayılar\bin\Debug\Büyük Sayılar.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Büyük Sayılar\Büyük Sayılar\obj\Debug\Büyük Sayılar.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Büyük Sayılar\Büyük Sayılar\obj\Debug\Büyük Sayılar.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Büyük Sayılar\Büyük Sayılar\bin\Debug\Büyük Sayılar.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Büyük Sayılar\Büyük Sayılar\bin\Debug\Büyük Sayılar.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Büyük Sayılar\Büyük Sayılar\obj\Debug\Büyük Sayılar.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Büyük Sayılar\Büyük Sayılar\obj\Debug\Büyük_Sayılar.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Büyük Sayılar\Büyük Sayılar\obj\Debug\Büyük_Sayılar.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Büyük Sayılar\Büyük Sayılar\obj\Debug\Büyük Sayılar.csproj.GenerateResource.Cache

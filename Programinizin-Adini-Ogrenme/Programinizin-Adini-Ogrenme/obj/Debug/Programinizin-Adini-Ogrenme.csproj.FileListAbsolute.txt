@@ -1,0 +1,8 @@
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Programinizin-Adini-Ogrenme\Programinizin-Adini-Ogrenme\bin\Debug\Programinizin-Adini-Ogrenme.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Programinizin-Adini-Ogrenme\Programinizin-Adini-Ogrenme\obj\Debug\Programinizin_Adini_Ogrenme.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Programinizin-Adini-Ogrenme\Programinizin-Adini-Ogrenme\obj\Debug\Programinizin_Adini_Ogrenme.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Programinizin-Adini-Ogrenme\Programinizin-Adini-Ogrenme\obj\Debug\Programinizin-Adini-Ogrenme.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Programinizin-Adini-Ogrenme\Programinizin-Adini-Ogrenme\bin\Debug\Programinizin-Adini-Ogrenme.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Programinizin-Adini-Ogrenme\Programinizin-Adini-Ogrenme\bin\Debug\Programinizin-Adini-Ogrenme.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Programinizin-Adini-Ogrenme\Programinizin-Adini-Ogrenme\obj\Debug\Programinizin-Adini-Ogrenme.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Programinizin-Adini-Ogrenme\Programinizin-Adini-Ogrenme\obj\Debug\Programinizin-Adini-Ogrenme.pdb

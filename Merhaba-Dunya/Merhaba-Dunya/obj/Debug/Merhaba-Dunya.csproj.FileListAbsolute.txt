@@ -1,0 +1,9 @@
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Merhaba-Dunya\Merhaba-Dunya\bin\Debug\Merhaba-Dunya.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Merhaba-Dunya\Merhaba-Dunya\bin\Debug\Merhaba-Dunya.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Merhaba-Dunya\Merhaba-Dunya\bin\Debug\Merhaba-Dunya.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Merhaba-Dunya\Merhaba-Dunya\obj\Debug\Merhaba-Dunya.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Merhaba-Dunya\Merhaba-Dunya\obj\Debug\Merhaba_Dunya.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Merhaba-Dunya\Merhaba-Dunya\obj\Debug\Merhaba_Dunya.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Merhaba-Dunya\Merhaba-Dunya\obj\Debug\Merhaba-Dunya.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Merhaba-Dunya\Merhaba-Dunya\obj\Debug\Merhaba-Dunya.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Merhaba-Dunya\Merhaba-Dunya\obj\Debug\Merhaba-Dunya.pdb

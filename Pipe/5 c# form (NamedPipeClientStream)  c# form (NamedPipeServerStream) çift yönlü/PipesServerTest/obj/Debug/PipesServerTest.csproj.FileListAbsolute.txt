@@ -1,0 +1,27 @@
+D:\Masaüstü\Pipe\2\PipesServerTest\PipesServerTest\bin\Debug\PipesServerTest.exe.config
+D:\Masaüstü\Pipe\2\PipesServerTest\PipesServerTest\bin\Debug\PipesServerTest.exe
+D:\Masaüstü\Pipe\2\PipesServerTest\PipesServerTest\bin\Debug\PipesServerTest.pdb
+D:\Masaüstü\Pipe\2\PipesServerTest\PipesServerTest\obj\Debug\PipesServerTest.Form1.resources
+D:\Masaüstü\Pipe\2\PipesServerTest\PipesServerTest\obj\Debug\PipesServerTest.Properties.Resources.resources
+D:\Masaüstü\Pipe\2\PipesServerTest\PipesServerTest\obj\Debug\PipesServerTest.csproj.GenerateResource.Cache
+D:\Masaüstü\Pipe\2\PipesServerTest\PipesServerTest\obj\Debug\PipesServerTest.exe
+D:\Masaüstü\Pipe\2\PipesServerTest\PipesServerTest\obj\Debug\PipesServerTest.pdb
+D:\Masaüstü\Pipe\2\PipesServerTest\PipesServerTest\obj\Debug\PipesServerTest.csprojResolveAssemblyReference.cache
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream)  c# (NamedPipeServerStream) çift yönlü\PipesServerTest\PipesServerTest\bin\Debug\PipesServerTest.exe.config
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream)  c# (NamedPipeServerStream) çift yönlü\PipesServerTest\PipesServerTest\bin\Debug\PipesServerTest.exe
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream)  c# (NamedPipeServerStream) çift yönlü\PipesServerTest\PipesServerTest\bin\Debug\PipesServerTest.pdb
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream)  c# (NamedPipeServerStream) çift yönlü\PipesServerTest\PipesServerTest\obj\Debug\PipesServerTest.Form1.resources
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream)  c# (NamedPipeServerStream) çift yönlü\PipesServerTest\PipesServerTest\obj\Debug\PipesServerTest.Properties.Resources.resources
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream)  c# (NamedPipeServerStream) çift yönlü\PipesServerTest\PipesServerTest\obj\Debug\PipesServerTest.csproj.GenerateResource.Cache
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream)  c# (NamedPipeServerStream) çift yönlü\PipesServerTest\PipesServerTest\obj\Debug\PipesServerTest.exe
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream)  c# (NamedPipeServerStream) çift yönlü\PipesServerTest\PipesServerTest\obj\Debug\PipesServerTest.pdb
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream)  c# (NamedPipeServerStream) çift yönlü\PipesServerTest\PipesServerTest\obj\Debug\PipesServerTest.csprojResolveAssemblyReference.cache
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream)  c# (NamedPipeServerStream) çift yönlü\PipesServerTest\bin\Debug\PipesServerTest.exe.config
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream)  c# (NamedPipeServerStream) çift yönlü\PipesServerTest\bin\Debug\PipesServerTest.exe
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream)  c# (NamedPipeServerStream) çift yönlü\PipesServerTest\bin\Debug\PipesServerTest.pdb
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream)  c# (NamedPipeServerStream) çift yönlü\PipesServerTest\obj\Debug\PipesServerTest.csprojResolveAssemblyReference.cache
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream)  c# (NamedPipeServerStream) çift yönlü\PipesServerTest\obj\Debug\PipesServerTest.Form1.resources
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream)  c# (NamedPipeServerStream) çift yönlü\PipesServerTest\obj\Debug\PipesServerTest.Properties.Resources.resources
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream)  c# (NamedPipeServerStream) çift yönlü\PipesServerTest\obj\Debug\PipesServerTest.csproj.GenerateResource.Cache
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream)  c# (NamedPipeServerStream) çift yönlü\PipesServerTest\obj\Debug\PipesServerTest.exe
+D:\Masaüstü\Pipe\2 c# (NamedPipeClientStream)  c# (NamedPipeServerStream) çift yönlü\PipesServerTest\obj\Debug\PipesServerTest.pdb

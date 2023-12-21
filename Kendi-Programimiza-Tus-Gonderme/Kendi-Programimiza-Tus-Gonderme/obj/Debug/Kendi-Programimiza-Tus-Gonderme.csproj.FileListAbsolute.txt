@@ -1,0 +1,9 @@
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Kendi-Programimiza-Tus-Gonderme\Kendi-Programimiza-Tus-Gonderme\bin\Debug\Kendi-Programimiza-Tus-Gonderme.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Kendi-Programimiza-Tus-Gonderme\Kendi-Programimiza-Tus-Gonderme\bin\Debug\Kendi-Programimiza-Tus-Gonderme.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Kendi-Programimiza-Tus-Gonderme\Kendi-Programimiza-Tus-Gonderme\bin\Debug\Kendi-Programimiza-Tus-Gonderme.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Kendi-Programimiza-Tus-Gonderme\Kendi-Programimiza-Tus-Gonderme\obj\Debug\Kendi-Programimiza-Tus-Gonderme.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Kendi-Programimiza-Tus-Gonderme\Kendi-Programimiza-Tus-Gonderme\obj\Debug\Kendi_Programimiza_Tus_Gonderme.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Kendi-Programimiza-Tus-Gonderme\Kendi-Programimiza-Tus-Gonderme\obj\Debug\Kendi_Programimiza_Tus_Gonderme.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Kendi-Programimiza-Tus-Gonderme\Kendi-Programimiza-Tus-Gonderme\obj\Debug\Kendi-Programimiza-Tus-Gonderme.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Kendi-Programimiza-Tus-Gonderme\Kendi-Programimiza-Tus-Gonderme\obj\Debug\Kendi-Programimiza-Tus-Gonderme.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Kendi-Programimiza-Tus-Gonderme\Kendi-Programimiza-Tus-Gonderme\obj\Debug\Kendi-Programimiza-Tus-Gonderme.pdb

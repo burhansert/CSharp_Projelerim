@@ -1,0 +1,12 @@
+D:\Masaüstü\test\test\bin\Debug\test.exe.config
+D:\Masaüstü\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Masaüstü\test\test\obj\Debug\test.Form1.resources
+D:\Masaüstü\test\test\obj\Debug\test.Properties.Resources.resources
+D:\Masaüstü\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\Masaüstü\test\test\bin\Debug\test.exe
+D:\Masaüstü\test\test\bin\Debug\test.pdb
+D:\Masaüstü\test\test\obj\Debug\test.exe
+D:\Masaüstü\test\test\obj\Debug\test.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Gorev-Yoneticisi(Task-Manager)\test\bin\Debug\test.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Gorev-Yoneticisi(Task-Manager)\test\obj\Debug\test.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Gorev-Yoneticisi(Task-Manager)\test\obj\Debug\test.pdb

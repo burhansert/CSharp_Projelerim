@@ -1,0 +1,9 @@
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Fareyi-Hareket-Ettirmek\Fareyi-Hareket-Ettirmek\bin\Debug\Fareyi-Hareket-Ettirmek.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Fareyi-Hareket-Ettirmek\Fareyi-Hareket-Ettirmek\bin\Debug\Fareyi-Hareket-Ettirmek.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Fareyi-Hareket-Ettirmek\Fareyi-Hareket-Ettirmek\bin\Debug\Fareyi-Hareket-Ettirmek.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Fareyi-Hareket-Ettirmek\Fareyi-Hareket-Ettirmek\obj\Debug\Fareyi-Hareket-Ettirmek.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Fareyi-Hareket-Ettirmek\Fareyi-Hareket-Ettirmek\obj\Debug\Fareyi_Hareket_Ettirmek.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Fareyi-Hareket-Ettirmek\Fareyi-Hareket-Ettirmek\obj\Debug\Fareyi-Hareket-Ettirmek.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Fareyi-Hareket-Ettirmek\Fareyi-Hareket-Ettirmek\obj\Debug\Fareyi-Hareket-Ettirmek.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Fareyi-Hareket-Ettirmek\Fareyi-Hareket-Ettirmek\obj\Debug\Fareyi-Hareket-Ettirmek.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\Fareyi-Hareket-Ettirmek\Fareyi-Hareket-Ettirmek\obj\Debug\Fareyi_Hareket_Ettirmek.Form1.resources

@@ -1,0 +1,27 @@
+D:\Masaüstü\client\client\bin\Debug\client.exe.config
+D:\Masaüstü\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+D:\Masaüstü\client\client\obj\Debug\client.Form1.resources
+D:\Masaüstü\client\client\obj\Debug\client.Properties.Resources.resources
+D:\Masaüstü\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+D:\Masaüstü\client\client\bin\Debug\client.exe
+D:\Masaüstü\client\client\bin\Debug\client.pdb
+D:\Masaüstü\client\client\obj\Debug\client.exe
+D:\Masaüstü\client\client\obj\Debug\client.pdb
+D:\Masaüstü\Depo\c# server client\client\client\bin\Debug\client.exe.config
+D:\Masaüstü\Depo\c# server client\client\client\obj\Debug\client.exe
+D:\Masaüstü\Depo\c# server client\client\client\obj\Debug\client.pdb
+D:\Masaüstü\Depo\c# server client\client\client\bin\Debug\client.exe
+D:\Masaüstü\Depo\c# server client\client\client\bin\Debug\client.pdb
+D:\Masaüstü\Depo\c# server client\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+D:\Masaüstü\Depo\c# server client\client\client\obj\Debug\client.Form1.resources
+D:\Masaüstü\Depo\c# server client\client\client\obj\Debug\client.Properties.Resources.resources
+D:\Masaüstü\Depo\c# server client\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu\client\client\bin\Debug\client.exe.config
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu\client\client\obj\Debug\client.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu\client\client\obj\Debug\client.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu\Client\client\bin\Debug\client.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu\Client\client\bin\Debug\client.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu\Client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu\Client\client\obj\Debug\client.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu\Client\client\obj\Debug\client.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\İstemci Sunucu\Client\client\obj\Debug\client.csproj.GenerateResource.Cache

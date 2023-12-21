@@ -1,0 +1,16 @@
+D:\Masaüstü\Pipe\1\Pipe Server\Pipe Server\obj\Debug\Pipe Server.csprojResolveAssemblyReference.cache
+D:\Masaüstü\Pipe\1\Pipe Server\Pipe Server\bin\Debug\Pipe Server.exe
+D:\Masaüstü\Pipe\1\Pipe Server\Pipe Server\bin\Debug\Pipe Server.pdb
+D:\Masaüstü\Pipe\1\Pipe Server\Pipe Server\obj\Debug\Pipe Server.exe
+D:\Masaüstü\Pipe\1\Pipe Server\Pipe Server\obj\Debug\Pipe Server.pdb
+D:\Masaüstü\Pipe\1\Named Pipe Server\Pipe Server\obj\Debug\Pipe Server.exe
+D:\Masaüstü\Pipe\1\Named Pipe Server\Pipe Server\obj\Debug\Pipe Server.pdb
+D:\Masaüstü\Pipe\1\Named Pipe Server c#\Pipe Server\obj\Debug\Pipe Server.exe
+D:\Masaüstü\Pipe\1\Named Pipe Server c#\Pipe Server\obj\Debug\Pipe Server.pdb
+D:\Masaüstü\Pipe\1\Named Pipe Server c#\Pipe Server\bin\Debug\Pipe Server.exe
+D:\Masaüstü\Pipe\1\Named Pipe Server c#\Pipe Server\bin\Debug\Pipe Server.pdb
+D:\Masaüstü\Pipe\1\Named Pipe Server c#\Pipe Server\obj\Debug\Pipe Server.csprojResolveAssemblyReference.cache
+D:\Masaüstü\Pipe\1 c++ (CreateFile) c# çift yönlü\Named Pipe Server c#\Pipe Server\obj\Debug\Pipe Server.exe
+D:\Masaüstü\Pipe\1 c++ (CreateFile) c# çift yönlü\Named Pipe Server c#\Pipe Server\obj\Debug\Pipe Server.pdb
+D:\Masaüstü\Pipe\1 c++ (CreateFile) c# (SafeFileHandle) çift yönlü\Named Pipe Server c#\Pipe Server\obj\Debug\Pipe Server.exe
+D:\Masaüstü\Pipe\1 c++ (CreateFile) c# (SafeFileHandle) çift yönlü\Named Pipe Server c#\Pipe Server\obj\Debug\Pipe Server.pdb

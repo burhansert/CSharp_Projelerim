@@ -1,0 +1,8 @@
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\OpenCV Panoya Kopyala\OpenCV Panoya Kopyala\bin\Debug\OpenCV Panoya Kopyala.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\OpenCV Panoya Kopyala\OpenCV Panoya Kopyala\bin\Debug\OpenCV Panoya Kopyala.pdb
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\OpenCV Panoya Kopyala\OpenCV Panoya Kopyala\obj\Debug\OpenCV Panoya Kopyala.csprojResolveAssemblyReference.cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\OpenCV Panoya Kopyala\OpenCV Panoya Kopyala\obj\Debug\OpenCV_Panoya_Kopyala.Form1.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\OpenCV Panoya Kopyala\OpenCV Panoya Kopyala\obj\Debug\OpenCV_Panoya_Kopyala.Properties.Resources.resources
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\OpenCV Panoya Kopyala\OpenCV Panoya Kopyala\obj\Debug\OpenCV Panoya Kopyala.csproj.GenerateResource.Cache
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\OpenCV Panoya Kopyala\OpenCV Panoya Kopyala\obj\Debug\OpenCV Panoya Kopyala.exe
+D:\Belgelerim\Programlama\Pc Programlama\C#\Bazi-Kisa-Kodlar\OpenCV Panoya Kopyala\OpenCV Panoya Kopyala\obj\Debug\OpenCV Panoya Kopyala.pdb
